@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Proyecto](README.md)
+* [Propósito](README.md)
 

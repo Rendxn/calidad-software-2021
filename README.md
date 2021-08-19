@@ -1,3 +1,6 @@
-# Proyecto
+---
+description: Es un proyecto de e-growers
+---
 
-Es un proyecto de e-growers
+# Propósito
+
