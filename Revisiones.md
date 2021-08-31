@@ -22,7 +22,7 @@ En conformidad con el estándar IEEE 1028-2008, el plan de revisión consta de l
 
 Documento de requisitos de software.
 
-### Procedmientos de revisión
+### Evaluación de entrada
 
 Se realizará la evaluación del producto mediante una [lista de verificación de especificación de requisitos](https://www.cs.toronto.edu/~sme/CSC340F/2005/assignments/inspections/reqts_checklist.pdf). Este consiste en evaluar el producto de software utilizando una lista de verificación dividida en diferentes criterios, asegurándose de que el producto cumpla con las especificaciones.
 
@@ -60,3 +60,12 @@ La lista de verificación es la siguiente:
 
 * ¿Se identifica cada requisito de forma única y correcta?
 * ¿Se puede rastrear cada requisito funcional de software a un requisito de nivel superior (por ejemplo, requisito del sistema, caso de uso)?
+
+### Preparación administrativa
+
+Previo a la examinación, el personal administrativo se encargará de que la revisión del producto de software contenga todos los recursos necesarios para seguir adelante con la revisión. Se tendrán en cuenta:
+
+* Personal
+* Tiempo
+* Materiales (documentos, listas de verificación).
+* Herramientas.
