@@ -1,7 +1,7 @@
 # Revisiones
 
 Las revisiones hacen una parte importante dentro del ciclo de vida de desarrollo de software, pues permiten encontrar defectos en una etapa temprana y reducen costos.
-En conformidad con el estándar IEEE 1028-2008, el plan de revisión consta de los siguientes items:
+En conformidad con el estándar IEEE 1028-2008, el plan de revisión consta de los siguientes items.
 
 ## Responsabilidades
 
@@ -14,19 +14,19 @@ En conformidad con el estándar IEEE 1028-2008, el plan de revisión consta de l
 
 ## Revisión de los requisitos de software (SRR)
 
-### Objetivos
-
-* Evaluar conformidad del documento de requisitos de Software (SRD) a las especificaciones.
-
 ### Producto de software
 
 Documento de requisitos de software.
+
+### Objetivos
+
+* Evaluar conformidad del documento de requisitos de Software (SRD) a las especificaciones.
 
 ### Evaluación de entrada
 
 Se realizará la evaluación del producto mediante una [lista de verificación de especificación de requisitos](https://www.cs.toronto.edu/~sme/CSC340F/2005/assignments/inspections/reqts_checklist.pdf). Este consiste en evaluar el producto de software utilizando una lista de verificación dividida en diferentes criterios, asegurándose de que el producto cumpla con las especificaciones.
 
-La lista de verificación es la siguiente:
+La lista de verificación es la siguiente.
 
 #### Organización y completitud
 
@@ -63,9 +63,70 @@ La lista de verificación es la siguiente:
 
 ### Preparación administrativa
 
-Previo a la examinación, el personal administrativo se encargará de que la revisión del producto de software contenga todos los recursos necesarios para seguir adelante con la revisión. Se tendrán en cuenta:
+Previo a la examinación, el personal administrativo se encargará de que la revisión del producto de software contenga todos los recursos necesarios para seguir adelante con la revisión. Se tendrán en cuenta.
 
 * Personal
 * Tiempo
-* Materiales (documentos, listas de verificación).
-* Herramientas.
+* Materiales (documentos).
+* Herramientas (listas de verificación).
+
+## Revisión de diseño preliminar (PDR)
+
+### Producto de software
+
+### Objetivos
+
+### Evaluación de entrada
+
+## Revisión de diseño crítico (CDR)
+
+### Producto de software
+
+### Objetivos
+
+### Evaluación de entrada
+
+---
+
+Para cada producto de software se deberán incluir los objetivos de la revisión y la evaluación de entrada, además de una planeación de la revisión; preparación; examen y salida. Estas últimas se explican a continuación.
+
+## Planeación de la revisión
+
+Basado en estos objetivos, el líder de revisión será el encargado de realizar las siguientes actividades.
+
+1. Identificar el equipo de revisión.
+2. Asignar las responsabilidades a los miembros del equipo de revisión.
+3. Agendar y anunciar el lugar de la reunión.
+4. Distribuir los materiales con tiempo previo.
+5. Establecer un calendario para la distribución de material y la devolución y envío de comentarios.
+
+## Preparación
+
+Cada miembro del equipo es responsable de preparar la tarea de revisión de la que fue encargado.
+
+## Examen
+
+Utilizando las herramientas seleccionadas para la revisión, se determinará si.
+
+ 1. El producto de software está completo.
+ 2. El producto de software se conforma con los estándares, regulaciones y especificaciones.
+ 3. Es necesario aplicar cambios al producto de software en caso de ser necesario.
+ 4. El producto de software es adecuado.
+ 5. Los descubrimientos requieren modificar el calendario del proyecto.
+
+Seguido de esto, se identificarán las anomalías y su prioridad y se realizará una lista de acciones a tomar.
+
+Toda esta información debe ser documentada para la salida de la revisión y entregada una vez se considere que las actividades fueron hechas.
+
+## Salida
+
+La salida de la revisión técnica consistirá de la siguiente información.
+
+1. Información general de la entrada (nombre del proyecto, miembros del equipo, producto, completitud de los objetivos).
+2. Documentación de la revisión.
+3. Lista de anomalías del producto de software.
+4. Lista de problemas de gerencia.
+5. Lista de acciones y su estado actual (abierta, resuelta).
+6. Recomendaciones adicionales del equipo de revisión.
+
+## Plan de Revisión de la Validación y Verificación de Software
