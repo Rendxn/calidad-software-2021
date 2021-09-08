@@ -7,3 +7,4 @@
 * [Informe de problemas](InformeProblemas.md)
 * [Revisiones](Revisiones.md)
 * [Normas Prácticas y métricas](NormasPracticasMetricas.md)
+* [Organigrama y tareas](OrganigramaTareas.md)
