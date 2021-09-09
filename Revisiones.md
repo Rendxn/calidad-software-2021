@@ -27,7 +27,7 @@ Especificación de requisitos de software (SRS).
 
 ### Evaluación de entrada
 
-Se realizará la evaluación del producto mediante una [lista de verificación de especificación de requisitos](https://www.cs.toronto.edu/~sme/CSC340F/2005/assignments/inspections/reqts_checklist.pdf). Este consiste en evaluar el producto de software utilizando una lista de verificación dividida en diferentes criterios, asegurándose de que el producto cumpla con las especificaciones.
+Se realizará la evaluación del producto mediante una [lista de verificación y validación de especificación de requisitos](https://www.cs.toronto.edu/~sme/CSC340F/2005/assignments/inspections/reqts_checklist.pdf). Este consiste en evaluar el producto de software utilizando una lista de verificación dividida en diferentes criterios, asegurándose de que el producto cumpla con las especificaciones.
 
 La lista de verificación es la siguiente.
 
@@ -123,7 +123,35 @@ Documento de diseño de interfaces (IDD).
 
 ### Objetivos
 
+* Determinar si el diseño detallado completo cumple con los requisitos especificados (funcional/rendimiento).
+* Determinar si el diseño está completo y listo para ser implementado.
+* Reasignar requisitos y ajustar diseños en los casos necesarios para preservar la consistencia.
+
 ### Evaluación de entrada
+
+Se evaluará la correctitud, consistencia, completitud y legibilidad de los elementos de diseño utilizando la siguiente lista de verificación y validación.
+
+1. Correctitud:
+
+    * ¿Los elementos de diseño cumplen con los respectivos requisitos de software referentes a la funcionalidad y al rendimiento?
+    * ¿Las interfaces internas cumplen con los respectivos requisitos de software referentes a la funcionalidad y al rendimiento?
+    * ¿Las interfaces externas cumplen con los respectivos requisitos de software referentes a la funcionalidad y al rendimiento?
+
+2. Consistencia:
+
+   * ¿Hay consistencia entre los elementos de diseño y los requisitos especificados?
+   * ¿Hay consistencia entre los elementos de diseño y el diseño de la arquitectura?
+
+3. Completitud:
+
+   * ¿Todos los elementos de diseño están completos?
+   * ¿Todos los elementos de diseño fueron probados y cumplieron con sus criterios de aceptación?
+   * ¿Tanto el SDD como el IDD satisfacen procedimientos de gestión de configuración especificados?
+
+4. Legibilidad
+
+    * ¿La documentación es legible, entendible y sin ambigüedad?
+    * ¿La documentación define acrónimos, términos, lenguaje de diseño, entre otros?
 
 ---
 
