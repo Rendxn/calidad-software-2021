@@ -1,4 +1,6 @@
-# Revisiones
+# Plan de Revisión de la Verificación y Validación de Software
+
+## Revisiones
 
 Las revisiones hacen una parte importante dentro del ciclo de vida de desarrollo de software, pues permiten encontrar defectos en una etapa temprana y reducen costos.
 En conformidad con el estándar IEEE 1028-2008, el plan de revisión consta de los siguientes items.
@@ -11,6 +13,26 @@ En conformidad con el estándar IEEE 1028-2008, el plan de revisión consta de l
 * Personal administrativo: Salomé Aristizábal Giraldo
 * Personal técnico: Juan Carlos Jaramillo Gómez
 * Representante del cliente: Edward
+
+Para desarrollar e implementar un plan de revisión de la validación y verificación de software, es necesario realizar los procesos de verificación y validación de software.
+
+## Procesos de verificación y validación de software
+
+Para cada actividad dentro del ciclo de vida, se verifica objetivamente que el producto logre lo siguiente:
+
+1. Cumple con los requisitos (correctitud, completitud, consistencia, legibilidad, testeabilidad, entre otros) para todas las actividades durante cada proceso del ciclo de vida.
+2. Satisface estándares, prácticas y convenciones dentro de los procesos del ciclo de vida.
+3. Se completa cada actividad del ciclo de vida y el producto satisface todos los criterios de cada ciclo de vida.
+
+### Resultados
+
+1. Son asignados niveles de integridad al software y todos sus componentes.
+2. Es evaluado el nivel de satisfacción del software y todos sus componentes.
+3. Se determina si el software y todos sus componentes cumplen los requisitos y satisfacen los criterios.
+
+---
+
+Las siguientes revisiones se realizan en el marco del plan de la verificación y validación de software y como actividades de sus procesos respectivos.
 
 ## Revisión de los requisitos de software (SRR)
 
@@ -204,5 +226,3 @@ La salida de la revisión técnica consistirá de la siguiente información.
 4. Lista de problemas de gerencia.
 5. Lista de acciones y su estado actual (abierta, resuelta).
 6. Recomendaciones adicionales del equipo de revisión.
-
-## Plan de Revisión de la Validación y Verificación de Software
